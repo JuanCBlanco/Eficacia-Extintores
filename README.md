@@ -9,7 +9,7 @@ O objetivo desse projeto é criar um modelo de Machine Learning para prever a ef
 
 - [Extração dos dados](./Scripts/extracao.py)
 - [Processamento de Dados](./Notebook/Processamento.ipynb)
-- [Análise Exploratória de Dados](./Notebook/AnaliseExploratoria.ipynb)
+- [Análise Exploratória de Dados](./Notebook/AnaliseExploratoriaDados.ipynb)
 - [Modelo de Machine Learning](./Notebook/Modelagem.ipynb)
 
 ## Limpeza dos dados
